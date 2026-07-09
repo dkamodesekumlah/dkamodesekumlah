@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dika&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Anak%20RPL%20%7C%20Ngoding%20Sambil%20Baca%20Manga&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dika&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SMK%20RPL%20%7C%20Ngoding%20Sambil%20Baca%20Manga&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Halo%2C+gw+Dika;Pelajar+%7C+Ngoding+%7C+Nonton+Anime;Mecut+AI%2C+Ngoding%2C+Scroll+Fesnuk" alt="Typing SVG" />
