@@ -22,7 +22,7 @@
 <b>$ infomaseh</b>
 
 <b>Nama</b>:                 Dika
-<b>Hobby</b>:                Baca anime & read manga (kebalik maseh)
+<b>Hobby</b>:                Nonton anime & read manga
 <b>Keahlian</b>:             Mecut ey ay, ngoding, scrol fesnuk
 <b>Kegiatan</b>:             Makan -> Ngoding -> scrol fesnuk -> turu
 <b>Kesukaan</b>:             Simple aja (macha, susu, gacoan, bakso, mie ayam, dll)
